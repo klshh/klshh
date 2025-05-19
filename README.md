@@ -1,16 +1,31 @@
-## Hi there 👋
+### Introduction
 
-<!--
-**klshh/klshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋, I'm Kalash.
 
-Here are some ideas to get you started:
+A backend engineer passionate about crafting high-performance, scalable systems. I specialize in Golang, Java, and Node.js, with a strong focus on microservices, distributed systems, and real-time data processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some Technical Stuff I Work With
+
+| Category                      | Technologies |
+|--------------------------------|-------------|
+| 🖥️ **Languages**              | Java, C++ |
+| 🚀 **Frameworks & Libraries**  | Spring Boot |
+| 📡 **Messaging & Streaming**   | Kafka |
+| ☁️ **Cloud & DevOps**         | AWS, Docker, Linux |
+| 🗄️ **Databases**              | MySQL, MongoDB, Redis |
+| 🏛️ **Architecture & Design**  | Microservices, API Design, Design Patterns |
+| 🔗 **Version Control**        | Git |
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klshh&" alt="klshh" /></p>
+
+<br>
+
+**Contact Me:**
+
+<a href="mailto:pruthi.kalash27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kalashh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=x-sushant-x&style=for-the-badge)
